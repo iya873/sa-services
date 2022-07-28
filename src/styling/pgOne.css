@@ -1,0 +1,8 @@
+.bgOne{
+    /* border: 2px solid white; */
+    height: 700px;
+    /* width: 98vw; */
+    background-image: url('../images/sharon-mccutcheon-uk-no6Yv91g-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Cinzel:wght@600&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap'); */
+
+.bigDiv{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid black; */
+    margin-top: 25px;
+}
+
+.heroImg{
+   /* border: 2px solid bisque; */
+   height: 600px;
+   width: 50vw;
+   border-radius: 20px;
+   margin-left: 5px;
+}
+.questionBox{
+    /* border: 2px solid bisque; */
+    height: 600px;
+    width: 50vw;
+    text-align: center;
+}
+h2{
+    color: bisque;
+    font-size: 48px;
+    position: relative;
+    top: 10%;
+    text-shadow: 2px 2px 10px #008080;
+    font-family: 'DM Serif Display', serif;
+}
+.ambiance{
+    font-style: italic;
+}
+.you{
+    color: #008080;
+    text-shadow: 2px 2px 10px bisque;
+}
+.book{
+    position: relative;
+    top: 20%;
+    background-color: bisque;
+    color: #008080;
+    border-radius: 15px;
+    padding: 15px 25px;
+    border: none;
+    text-align: center;
+    font-size: 25px;
+    width: 325px;
+    font-family: 'Cinzel', serif
+}
+.book:hover{
+    background-color: #008080;
+    color: bisque;
+}

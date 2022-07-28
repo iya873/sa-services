@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    color: #008080;
+    /* height: 10vh; */
+    font-family: 'Italiana', serif;
+    
+}
+
+.socials {
+    margin-top: 15px;
+}

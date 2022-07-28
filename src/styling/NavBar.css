@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: bisque;
+    position: relative;
+    bottom: -15px;
+    font-family: 'Cinzel', serif;
+    /* margin: 15px; */
+}
+.nav{
+    /* border: 1px solid peru; */
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 77vw;
+    margin-left: 10%;
+}
+.navItem{
+    margin: 0px 5px;
+}
+.navItem:hover{
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.shop{
+    border: 5px solid bisque;
+    background-color: transparent;
+    color: bisque;
+    padding: 10px 25px;
+    border-radius: 15px;
+    position: relative;
+    
+}
+.shop:hover{
+    background-color: bisque;
+    color: #008080;
+    cursor: pointer;
+}
